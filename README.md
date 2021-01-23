@@ -3,7 +3,7 @@
 ### 🤔 I’m looking for help with Algorithms
 ### 💬 Ask me about whatever you want
 ### 📫 How to reach me: https://www.linkedin.com/in/jaymalanker/
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JayJM1011&&show_icons=true&&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JayJM1011&&show_icons=true&&theme=tokyonight" />
 <!--
 **JayJM1011/JayJM1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
