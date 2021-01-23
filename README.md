@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hey there! 👋
+### 🌱 I’m currently learning Python for AI and C++
+### 🤔 I’m looking for help with Algorithms
+### 💬 Ask me about whatever you want
+### 📫 How to reach me: https://www.linkedin.com/in/jaymalanker/
 <!--
 **JayJM1011/JayJM1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
