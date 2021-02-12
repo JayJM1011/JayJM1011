@@ -1,5 +1,5 @@
 ### Hey there! 👋
-### 🌱 I’m currently learning Python for AI and C++
+### 🌱 I’m currently learning Python for AI and also C++
 ### 🤔 I’m looking for help with Algorithms
 ### 💬 Ask me about whatever you want
 ### 📫 How to reach me: https://www.linkedin.com/in/jaymalanker/
