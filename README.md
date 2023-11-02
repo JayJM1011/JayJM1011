@@ -1,6 +1,6 @@
 ### Hey there! 👋
-### 🌱 I’m currently learning Python for AI and also C++
-### 🤔 I’m looking for help with Algorithms
+### 🌱 I’m currently learning Advanced AI
+### 🤔 I’m looking for help with Computer Vision
 ### 💬 Ask me about whatever you want
 ### 📫 How to reach me: https://www.linkedin.com/in/jaymalanker/
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayJM1011&&show_icons=true&&theme=radical" />
